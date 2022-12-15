@@ -2,3 +2,5 @@
 .DS_Store
 *.log
 Data Processing/jan1.csv
+Data Processing/ConvertWifi.ipynb
+Data Processing/RawCSVs
